@@ -1,0 +1,21 @@
+node_modules/
+dist/
+release/
+test-results/
+playwright-report/
+.DS_Store
+research/tools/runtime/
+research/.analysis/
+
+# This repository is the original MIXDESK workstation only.
+/app_dj_master/
+/djmaster开发参考文档/
+/dj-drive/
+/output/
+
+# Local scratch files and dependency download caches.
+/.tmp-measure.mjs
+/rekordxml-0.1.0.tgz
+.env
+.env.*
+!.env.example
